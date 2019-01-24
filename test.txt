@@ -1,4 +1,2 @@
 Hello Git 123
 It's new line
-added new line 1234
-last commit for coflict
